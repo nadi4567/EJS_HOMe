@@ -7,3 +7,4 @@ And - run => node index.js
 I deployed this onrender.com ,then
 You can direct visit this on=> https://nadi-0pxx.onrender.com/
 
+Desclaimer ===> I just bulilt up for practise ejs , express routin, no functionlity , no js. 
